@@ -1,0 +1,92 @@
+{
+    "tags": {
+        "tag": [
+            {
+                "name": "rock",
+                "url": "https://www.last.fm/tag/rock",
+                "reach": "398110",
+                "taggings": "4009712",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "electronic",
+                "url": "https://www.last.fm/tag/electronic",
+                "reach": "256924",
+                "taggings": "2409853",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "seen live",
+                "url": "https://www.last.fm/tag/seen+live",
+                "reach": "81905",
+                "taggings": "2147484",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "alternative",
+                "url": "https://www.last.fm/tag/alternative",
+                "reach": "263834",
+                "taggings": "2107206",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "indie",
+                "url": "https://www.last.fm/tag/indie",
+                "reach": "256031",
+                "taggings": "2034244",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "pop",
+                "url": "https://www.last.fm/tag/pop",
+                "reach": "228904",
+                "taggings": "2010142",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "female vocalists",
+                "url": "https://www.last.fm/tag/female+vocalists",
+                "reach": "168488",
+                "taggings": "1612131",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "metal",
+                "url": "https://www.last.fm/tag/metal",
+                "reach": "156659",
+                "taggings": "1271484",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "alternative rock",
+                "url": "https://www.last.fm/tag/alternative+rock",
+                "reach": "167897",
+                "taggings": "1179723",
+                "streamable": "1",
+                "wiki": {}
+            },
+            {
+                "name": "jazz",
+                "url": "https://www.last.fm/tag/jazz",
+                "reach": "147949",
+                "taggings": "1165285",
+                "streamable": "1",
+                "wiki": {}
+            }
+        ],
+        "@attr": {
+            "page": "1",
+            "perPage": "10",
+            "totalPages": "277628",
+            "total": "2776275"
+        }
+    }
+}

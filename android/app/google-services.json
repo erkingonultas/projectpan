@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522936827378",
+    "project_id": "projectpan-a30c5",
+    "storage_bucket": "projectpan-a30c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522936827378:android:6f75b30475a565ee0a3f6b",
+        "android_client_info": {
+          "package_name": "com.erkingonultas.projectpan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522936827378-dada1gpfctjt5pfgf7e46eikjs5l3ujj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROF4jM3MT0Qidk7Qt-c4hZTgTPGuu1o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522936827378-dada1gpfctjt5pfgf7e46eikjs5l3ujj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
