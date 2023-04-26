@@ -1,4 +1,4 @@
-# projectpan
+# Project Pan
 
 ## A social media project for music lovers.
 
